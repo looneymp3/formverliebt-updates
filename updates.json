@@ -8,9 +8,9 @@
       "sha256": "114a52a3175844ba0bb6ff3d7cbf99122c09125393441a3a3ab5febdac5879a3"
     },
     "formverliebt-manager": {
-      "version": "1.0.1-beta.1",
-      "url": "https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.1-beta.1/formverliebt-manager-1.0.1-beta.1.zip",
-      "sha256": "37144827cf0ba3f3d7be47a9ebb8d76a9742374c9ccaea6bbe6f6ee8d74b1c1d"
+      "version": "1.0.2-beta.1",
+      "url": "https://github.com/looneymp3/formverliebt-updates/releases/download/manager-v1.0.2-beta.1/formverliebt-manager-1.0.2-beta.1.zip",
+      "sha256": "25b0c0916d78cbeebfae367d8f61feee286fff3a1e44e0c546a83e5e7bcc873f"
     }
   }
 }
