@@ -3,9 +3,9 @@
   "stable": {},
   "beta": {
     "formverliebt": {
-      "version": "3.0.1-beta.1",
-      "url": "https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.1-beta.1/formverliebt-3.0.1-beta.1.zip",
-      "sha256": "114a52a3175844ba0bb6ff3d7cbf99122c09125393441a3a3ab5febdac5879a3"
+      "version": "3.0.2-beta.1",
+      "url": "https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.2-beta.1/formverliebt-3.0.2-beta.1.zip",
+      "sha256": "2dc9c1be89df41ceb98932750b1a045af4eb0a9977426223932bf3cbf31cee24"
     },
     "formverliebt-manager": {
       "version": "1.0.2-beta.1",
