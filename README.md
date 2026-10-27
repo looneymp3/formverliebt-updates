@@ -4,8 +4,8 @@ Hier werden ausschließlich fertige Installationspakete, Versionshinweise und da
 
 ## Aktuelle Beta
 
-- **Kundenwebsites:** [formverliebt Agent 3.0.0-beta.1](https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.0-beta.1/formverliebt-3.0.0-beta.1.zip)
-- **Zentrale:** [Agency Manager 1.0.0-beta.1](https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.0-beta.1/formverliebt-manager-1.0.0-beta.1.zip)
+- **Kundenwebsites:** [formverliebt Agent 3.0.1-beta.1](https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.1-beta.1/formverliebt-3.0.1-beta.1.zip)
+- **Zentrale:** [Agency Manager 1.0.1-beta.1](https://github.com/looneymp3/formverliebt-updates/releases/download/v3.0.1-beta.1/formverliebt-manager-1.0.1-beta.1.zip)
 
 WordPress → Plugins → Installieren → Plugin hochladen. Bei bestehender Installation die vorhandene Version **direkt ersetzen**, nicht zuvor deinstallieren. Die Ersetzung von 2.6.5 durch den Agent3 wurde einschließlich AI-Kennzeichnungs-Einstellungen, Bild-Metadaten und bestehender Verbindung lokal geprüft.
 
